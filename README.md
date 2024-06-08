@@ -1,16 +1,5 @@
 # app_tracking
 
-A new Flutter project.
+Si desea descargar la aplicación, escanee el siguiente código QR:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app_tracking](https://github.com/leydivc/AppTracking/assets/170191291/06a62bc1-0412-4495-a0fd-8826dda4d032)
